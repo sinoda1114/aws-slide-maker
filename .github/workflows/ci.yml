@@ -15,5 +15,5 @@ permissions:
 
 jobs:
   ci:
-    uses: sinoda1114/ci-standard/.github/workflows/python-ci.yml@main
+    uses: sinoda1114/ci-standard/.github/workflows/python-ci.yml@ci/jactionlint
     secrets: inherit
